@@ -19,9 +19,11 @@ Gosto de aprender novas tecnologias através da prática, criando projetos e exp
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.DADC403@gmail.com)
 
 ---
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoVitorrCnr&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JoaoVitorrCnr&layout=compact)
-
 
 ## Tecnologias que utilizo
 
