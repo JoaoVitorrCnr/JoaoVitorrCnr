@@ -20,6 +20,9 @@ Gosto de aprender novas tecnologias através da prática, criando projetos e exp
 
 ---
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JoaoVitorrCnr&layout=compact)
+
+
 ## Tecnologias que utilizo
 
 - Java
