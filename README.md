@@ -36,7 +36,9 @@ Gosto de aprender novas tecnologias através da prática, criando projetos e exp
 
 ## Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorrCnr&layout=compact&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorrCnr&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorrCnr&layout=compact)
 
 ---
 
