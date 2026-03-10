@@ -34,12 +34,6 @@ Gosto de aprender novas tecnologias através da prática, criando projetos e exp
 
 ---
 
-## Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JoaoVitorrCnr&layout=compact)
-
----
-
 ## Interesses
 
 - Desenvolvimento Backend
